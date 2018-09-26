@@ -12,7 +12,7 @@ h1{
 	font-weight: bold;
 	padding: 90px 0 20px 0; 
 	color:navy;
-	text-shadow: 2px 2px white;
+	text-shadow: 2px 4px  white;
 }
 
 h2{
@@ -20,7 +20,7 @@ h2{
 	font-size: 25px;
 	padding-bottom: 40px;
 	color: white;
-	text-shadow: 2px 2px black;
+	text-shadow: 2px 4px black;
 }
 
 
