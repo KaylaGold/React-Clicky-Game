@@ -6,7 +6,7 @@ import "./FriendCard.css";
 let FriendCard = props => (
   <div className="card" onClick={props.imageClick}>
     <div className="img-container">
-      <img alt={props.image.replace(".jpg", "")} src={require("../../images/" + props.image)} />
+      <img className="img" alt={props.image.replace(".jpg", "")} src={require("../../images/" + props.image)} />
     </div>
   </div>
 );

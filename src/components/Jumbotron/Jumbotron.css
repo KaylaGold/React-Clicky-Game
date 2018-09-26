@@ -1,7 +1,8 @@
 .header{
-	background-color: #ccc;
+	background-image: url('/jumbotron.jpg') no-repeat center center;
 	position: relative;
 	width: 100%;
+
 }
 
 h1{
@@ -9,10 +10,14 @@ h1{
 	font-size: 90px;
 	font-weight: bold;
 	padding: 90px 0 20px 0; 
+	color:navy;
 }
 
 h2{
 	text-align: center;
 	font-size: 25px;
 	padding-bottom: 40px;
+	color:red;
 }
+
+
