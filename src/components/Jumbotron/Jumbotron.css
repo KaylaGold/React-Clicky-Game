@@ -1,7 +1,8 @@
 .header{
-	background-image: url('/jumbotron.jpg') no-repeat center center;
 	position: relative;
 	width: 100%;
+	background-image: url(../../images/puppy2.jpg);
+	/* background-repeat: repeat; */
 
 }
 
